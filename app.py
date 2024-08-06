@@ -48,15 +48,15 @@ def context(user: str):
         return '''
         Hello Atharva , the following is a message for you
         
-        Dear Atharva,
+Dear Atharva,
 
-        I hope this message finds you well. I've been thinking a lot about what happened between us, and I wanted to reach out to apologize sincerely (SOLLY) . I value our friendship greatly and regret any pain or misunderstanding that may have caused a rift between us.
+I hope this message finds you well. I've been thinking a lot about what happened between us, and I wanted to sincerely apologize. I value our friendship greatly and regret any pain or misunderstanding that may have caused a rift between us.
 
-        I understand that my actions (or words) might have hurt or upset you, and I'm truly sorry for that. It was never my intention to cause any harm or discomfort. Sometimes, in the heat of the moment, things can be said or done without fully considering their impact, and for that, I take full responsibility.
+I understand that my actions (or words) might have hurt or upset you, and I'm truly Solly for that. It was never my intention to cause any harm or discomfort. Sometimes things can be said or done without fully considering their impact, and for that, I take full responsibility.
 
-        Our friendship means a lot to me, and I genuinely miss our conversations and the good times we've shared. I hope we can find a way to move past this and rebuild the trust and bond we had. If you're open to it, I'd love to talk and clear the air, either in person or over a call, whenever you're ready.
+Our friendship means a lot to me, and I miss our interactions and the good times we've shared. I realize that I might have been too focused on my own interests and things I liked, and this may have contributed to the situation. I'm not much of a talker, and honestly, I don't fully understand what went wrong. I just want you to know that I'm here, and I hope we can find a way to move past this and rebuild our friendship.
 
-        Again, I apologize for any hurt I've caused and appreciate you taking the time to read this. I'm hopeful we can work through this and come out stronger on the other side.
+Again, I apologize for any hurt I've caused and appreciate you taking the time to read this. I'm hopeful we can work through this and come out stronger.
 
         Take care,
         Prathmesh
