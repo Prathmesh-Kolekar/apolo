@@ -128,7 +128,7 @@ for message in st.session_state.messages:
 
 def llm_function(query):
     response = agent_executor.invoke({"input": query},config={"configurable": {"session_id": "<foo>"}})
-    print(response)
+    # print(response)
     st.session_state["chat_history"].append(("You", query))
     st.session_state["chat_history"].append(("Shree", response["output"]))
 
